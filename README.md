@@ -1,1 +1,3 @@
 # final-project-autoflower
+The purpose of the "AutoFlower" application is to provide purchase recommendations for customers of a seed company. The application will offer a user-friendly interface where customers can input their preferences and requirements, and the application will generate tailored recommendations for seeds to purchase based on their inputs.
+The application is being created to enhance the customer experience for the seed company's customers by providing personalized recommendations for their gardening needs. It aims to simplify the process of selecting seeds and help customers make informed purchasing decisions.
